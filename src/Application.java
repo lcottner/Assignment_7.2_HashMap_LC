@@ -1,4 +1,12 @@
-import java.io.File;
+/**
+*The Application program holds the
+*main method and simulates using a hash to find
+*words in a dictionary
+*
+* @author  Lacey Cottner
+* @version 1.0
+* @since   2021-10-26
+*/import java.io.File;
 import java.io.FileNotFoundException;
 import java.util.HashMap; // import the HashMap class
 import java.util.Scanner;
